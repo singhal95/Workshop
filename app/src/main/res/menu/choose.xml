@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/allWorkshop"
+        android:title="@string/all_workshop" ></item>
+    <item
+        android:id="@+id/AppliedWorkshop"
+        android:title="@string/applied_workshop"></item>
+</menu>
