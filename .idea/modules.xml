@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\LoginRegister.iml" filepath="C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\LoginRegister.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Workshop.iml" filepath="$PROJECT_DIR$/Workshop.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/login-register-sqlite-tutorial-master.iml" filepath="$PROJECT_DIR$/login-register-sqlite-tutorial-master.iml" />
     </modules>
   </component>
 </project>

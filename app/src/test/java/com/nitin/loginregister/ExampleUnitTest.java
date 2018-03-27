@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister;
+package com.nitin.loginregister;
 
 import org.junit.Test;
 

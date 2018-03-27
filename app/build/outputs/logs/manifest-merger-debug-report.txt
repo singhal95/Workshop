@@ -1,125 +1,125 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-MERGED from [com.android.support:design:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\6612f8e40d01af747ef20b2ff30ac80c\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\85231929a74ed8a67feab0871c15f482\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\33d70002dbca740ce82f660c9f918833\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a67e027749a22ce49300781e96cb20b9\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0e0d443193f4119d958a75946b071c3f\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\fbb588d7fe1d1fd46e43d097833a659e\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\2c9c1f1f010352ecc2db959e8d557366\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fe44941a04870efedaf3152570389d0b\AndroidManifest.xml:2:1-11:12
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\75e63568b3505b082d889749ac8ab7b2\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1d6c157c262dc8e51da5cb74f190d81a\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\5595e4d4ea380beaeb068fe10d3a0a43\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\526b31b5708065c83e821e5ab301f901\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2bfa727e168aa2a5bd416ba6ffb0b11\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\549a3577d7585a5bbfe8328ed35fc9a7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\af422cf743e64bd3da1b3ce569f72707\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\93d5a3840cae49a444e371a84adac757\AndroidManifest.xml:2:1-11:12
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:3:5-52
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:3:5-52
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:1-30:12
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:5:5-28:19
-MERGED from [com.android.support:design:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\6612f8e40d01af747ef20b2ff30ac80c\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\6612f8e40d01af747ef20b2ff30ac80c\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\85231929a74ed8a67feab0871c15f482\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\85231929a74ed8a67feab0871c15f482\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\33d70002dbca740ce82f660c9f918833\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\33d70002dbca740ce82f660c9f918833\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a67e027749a22ce49300781e96cb20b9\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a67e027749a22ce49300781e96cb20b9\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0e0d443193f4119d958a75946b071c3f\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0e0d443193f4119d958a75946b071c3f\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\2c9c1f1f010352ecc2db959e8d557366\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\2c9c1f1f010352ecc2db959e8d557366\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fe44941a04870efedaf3152570389d0b\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fe44941a04870efedaf3152570389d0b\AndroidManifest.xml:9:5-20
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:design:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\75e63568b3505b082d889749ac8ab7b2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\75e63568b3505b082d889749ac8ab7b2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1d6c157c262dc8e51da5cb74f190d81a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1d6c157c262dc8e51da5cb74f190d81a\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\5595e4d4ea380beaeb068fe10d3a0a43\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\5595e4d4ea380beaeb068fe10d3a0a43\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\526b31b5708065c83e821e5ab301f901\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\526b31b5708065c83e821e5ab301f901\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2bfa727e168aa2a5bd416ba6ffb0b11\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2bfa727e168aa2a5bd416ba6ffb0b11\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\af422cf743e64bd3da1b3ce569f72707\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\af422cf743e64bd3da1b3ce569f72707\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\93d5a3840cae49a444e371a84adac757\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\93d5a3840cae49a444e371a84adac757\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:9:9-35
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:9:9-35
 	android:label
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:8:9-41
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:8:9-41
 	android:icon
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:7:9-43
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:7:9-43
 	android:allowBackup
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:6:9-35
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:10:9-40
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:10:9-40
 activity#com.androidtutorialshub.loginregister.activities.LoginActivity
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:11:9-19:20
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:11:9-19:20
 	android:screenOrientation
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:13:13-49
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:13:13-49
 	android:name
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:12:13-53
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:12:13-53
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:15:17-69
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:17:17-77
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:17:27-74
 activity#com.androidtutorialshub.loginregister.activities.RegisterActivity
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:20:9-22:52
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:20:9-22:52
 	android:screenOrientation
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:22:13-49
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:22:13-49
 	android:name
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:21:13-56
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:21:13-56
 activity#com.androidtutorialshub.loginregister.activities.UsersListActivity
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:23:9-25:52
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:23:9-25:52
 	android:screenOrientation
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:25:13-49
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:25:13-49
 	android:name
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:24:13-57
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:24:13-57
 activity#com.androidtutorialshub.loginregister.activities.AppliedActivity
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:26:9-73
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:26:9-73
 	android:name
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:26:19-61
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:26:19-61
 activity#com.androidtutorialshub.loginregister.activities.Description
-ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:27:9-69
+ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:27:9-69
 	android:name
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml:27:19-57
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml:27:19-57
 uses-sdk
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\6612f8e40d01af747ef20b2ff30ac80c\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\6612f8e40d01af747ef20b2ff30ac80c\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\85231929a74ed8a67feab0871c15f482\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\85231929a74ed8a67feab0871c15f482\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\33d70002dbca740ce82f660c9f918833\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\33d70002dbca740ce82f660c9f918833\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a67e027749a22ce49300781e96cb20b9\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\a67e027749a22ce49300781e96cb20b9\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0e0d443193f4119d958a75946b071c3f\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\0e0d443193f4119d958a75946b071c3f\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\fbb588d7fe1d1fd46e43d097833a659e\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\fbb588d7fe1d1fd46e43d097833a659e\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\2c9c1f1f010352ecc2db959e8d557366\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\2c9c1f1f010352ecc2db959e8d557366\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fe44941a04870efedaf3152570389d0b\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fe44941a04870efedaf3152570389d0b\AndroidManifest.xml:5:5-7:41
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\75e63568b3505b082d889749ac8ab7b2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\75e63568b3505b082d889749ac8ab7b2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1d6c157c262dc8e51da5cb74f190d81a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1d6c157c262dc8e51da5cb74f190d81a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\5595e4d4ea380beaeb068fe10d3a0a43\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-23.4.0.aar\5595e4d4ea380beaeb068fe10d3a0a43\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\526b31b5708065c83e821e5ab301f901\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\526b31b5708065c83e821e5ab301f901\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2bfa727e168aa2a5bd416ba6ffb0b11\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\c2bfa727e168aa2a5bd416ba6ffb0b11\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\549a3577d7585a5bbfe8328ed35fc9a7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\549a3577d7585a5bbfe8328ed35fc9a7\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\af422cf743e64bd3da1b3ce569f72707\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\af422cf743e64bd3da1b3ce569f72707\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\93d5a3840cae49a444e371a84adac757\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\93d5a3840cae49a444e371a84adac757\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Dell Inspiron\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\85231929a74ed8a67feab0871c15f482\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\1d6c157c262dc8e51da5cb74f190d81a\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\Dell Inspiron\Desktop\login-register-sqlite-tutorial-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Workshop\app\src\main\AndroidManifest.xml

@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.helpers;
+package com.nitin.loginregister.helpers;
 
 import android.app.Activity;
 import android.content.Context;

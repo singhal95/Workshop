@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.model;
+package com.nitin.loginregister.model;
 
 
 public class User {

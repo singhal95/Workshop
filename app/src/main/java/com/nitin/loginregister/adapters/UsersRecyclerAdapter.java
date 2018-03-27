@@ -1,19 +1,14 @@
-package com.androidtutorialshub.loginregister.adapters;
+package com.nitin.loginregister.adapters;
 
-import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.AppCompatTextView;
 import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.Menu;
-import android.view.MenuInflater;
-import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.model.User;
+import com.nitin.loginregister.R;
 
 import java.util.List;
 

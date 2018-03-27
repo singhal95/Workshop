@@ -1,4 +1,4 @@
-package com.androidtutorialshub.loginregister.activities;
+package com.nitin.loginregister.activities;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -8,8 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.TextView;
 
-import com.androidtutorialshub.loginregister.R;
-import com.androidtutorialshub.loginregister.sql.DatabaseHelper;
+import com.nitin.loginregister.R;
+import com.nitin.loginregister.sql.DatabaseHelper;
 
 
 /**

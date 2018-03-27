@@ -1,13 +1,12 @@
-package com.androidtutorialshub.loginregister.sql;
+package com.nitin.loginregister.sql;
 
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
-import android.util.Log;
 
-import com.androidtutorialshub.loginregister.model.User;
+import com.nitin.loginregister.model.User;
 
 import java.util.ArrayList;
 import java.util.List;
